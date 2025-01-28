@@ -13,9 +13,27 @@ extra_css:
   - assets/css/extra.css
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
-  - Platform: platform.md
-  - Cost Optimization: cost-optimization.md
-  - DevOps and Support: devops-support.md
-  - Security and Compliance: security-compliance.md
-  - Announcements: announcements.md
+  - Getting Started:
+      - Overview: getting-started/index.md
+      - Installation: getting-started/installation.md
+      - Configuration: getting-started/configuration.md
+  - Platform:
+      - Overview: platform/index.md
+      - Features: platform/features.md
+      - Best Practices: platform/best-practices.md
+  - Cost Optimization:
+      - Overview: cost-optimization/index.md
+      - Tips: cost-optimization/tips.md
+      - Tools: cost-optimization/tools.md
+  - DevOps and Support:
+      - Overview: support/index.md
+      - Contact: support/contact.md
+      - FAQ: support/faq.md
+  - Security and Compliance:
+      - Overview: security-compliance/index.md
+      - Policies: security-compliance/policies.md
+      - Guidelines: security-compliance/guidelines.md
+  - Announcements:
+      - Overview: announcements/index.md
+      - Latest: announcements/latest.md
+      - Archive: announcements/archive.md
