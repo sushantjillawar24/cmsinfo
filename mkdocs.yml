@@ -1,4 +1,5 @@
-site_name: Hyperion GSP Platform Documentation
+site_name: Documentation
+site_url: https://sushantjillawar24.github.io/cmsinfo/
 theme:
   name: material
 nav:
