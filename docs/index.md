@@ -7,7 +7,7 @@ Welcome to the **HCMS POD** documentation site. Use the **Search** function to q
   <a href="getting-started" class="tile" style="text-decoration: none; color: inherit; text-align: center; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 15px; width: 150px;">
     <h3 style="margin-bottom: 10px; font-family: 'Arial', sans-serif;">Getting Started</h3>
     <img src="assets/images/intro.png" alt="CMS" style="width: 100%; height: auto; border-radius: 4px;">
-    <p style="margin-top: 10px; font-family: 'Arial', sans-serif;">Intro docs</p>
+    <p style="margin-top: 10px; font-family: 'Arial', sans-serif;">Introduction Docs</p>
   </a>
 
   <a href="platform" class="tile" style="text-decoration: none; color: inherit; text-align: center; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 15px; width: 150px;">
@@ -24,7 +24,7 @@ Welcome to the **HCMS POD** documentation site. Use the **Search** function to q
 
   <a href="support" class="tile" style="text-decoration: none; color: inherit; text-align: center; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 15px; width: 150px;">
     <h3 style="margin-bottom: 10px; font-family: 'Arial', sans-serif;">DevOps and Support</h3>
-    <img src="assets/images/support.png" alt="DevOps and Support" style="width: 100%; height: auto; border-radius: 4px;">
+    <img src="assets/images/support.png" alt="Support" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="margin-top: 10px; font-family: 'Arial', sans-serif;">Get support from our teams</p>
   </a>
 
@@ -37,7 +37,7 @@ Welcome to the **HCMS POD** documentation site. Use the **Search** function to q
   <a href="news-announcements" class="tile" style="text-decoration: none; color: inherit; text-align: center; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 15px; width: 150px;">
     <h3 style="margin-bottom: 10px; font-family: 'Arial', sans-serif;">Announcements</h3>
     <img src="assets/images/announcements.png" alt="Announcements" style="width: 100%; height: auto; border-radius: 4px;">
-    <p style="margin-top: 10px; font-family: 'Arial', sans-serif;">Get the latest announcements from Hyperion Team</p>
+    <p style="margin-top: 10px; font-family: 'Arial', sans-serif;">Get the latest updates from our Team</p>
   </a>
 
 </div>
