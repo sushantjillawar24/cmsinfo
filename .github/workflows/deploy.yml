@@ -1,3 +1,4 @@
+#deploy
 name: Deploy MkDocs to GitHub Pages
 
 on:
