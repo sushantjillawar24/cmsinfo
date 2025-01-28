@@ -1,7 +1,14 @@
-site_name: Documentation
+site_name: HCMS Documentation
 site_url: https://sushantjillawar24.github.io/cmsinfo/
 theme:
   name: material
+  features:
+    - navigation.instant
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  hide:
+    - navigation
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
