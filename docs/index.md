@@ -2,7 +2,7 @@
 
 This site covers the documentation of **HCMS POD**. Please feel free to use the **Search** function.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin: 0 auto; max-width: 1200px;">
   <div style="flex: 1; min-width: 200px; margin: 10px; text-align: center;">
     <img src="assets/images/intro.png" alt="CMS" style="width: 100px;">
     <h3>Getting Started</h3>
