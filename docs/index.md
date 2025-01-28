@@ -11,7 +11,7 @@ This site covers the documentation of **CMS GSP Platform**. Please feel free to 
   <div style="flex: 1; min-width: 200px; margin: 10px; text-align: center;">
     <img src="assets/images/platform.png" alt="Platform" style="width: 100px;">
     <h3>Platform</h3>
-    <p>Setup features for your application and follow our best practices</p>
+    <p>Best practices</p>
   </div>
   <div style="flex: 1; min-width: 200px; margin: 10px; text-align: center;">
     <img src="assets/images/cost-optimization.png" alt="Cost Optimization" style="width: 100px;">
