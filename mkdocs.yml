@@ -9,6 +9,8 @@ theme:
     accent: 'indigo'
   hide:
     - navigation
+extra_css:
+  - assets/css/extra.css
 nav:
   - Home: index.md
   - Getting Started: getting-started.md

@@ -1,0 +1,40 @@
+.tiles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+    max-width: 1200px;
+  }
+  
+  .tile {
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s;
+  }
+  
+  .tile:hover {
+    transform: scale(1.05);
+  }
+  
+  .tile img {
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .tile h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .tile p {
+    margin: 0;
+  }
+  
