@@ -1,6 +1,6 @@
 # Home
 
-This site covers the documentation of **CMS GSP Platform**. Please feel free to use the **Search** function.
+This site covers the documentation of **HCMS POD**. Please feel free to use the **Search** function.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <div style="flex: 1; min-width: 200px; margin: 10px; text-align: center;">
@@ -23,4 +23,16 @@ This site covers the documentation of **CMS GSP Platform**. Please feel free to 
     <h3>DevOps and Support</h3>
     <p>Get support from our teams</p>
   </div>
-  <div style="flex: 1; min-width: 
+  <div style="flex: 1; min-width: 200px; margin: 10px; text-align: center;">
+    <img src="assets/images/security-compliance.png" alt="Security and Compliance" style="width: 100px;">
+    <h3>Security and Compliance</h3>
+    <p>Security and compliance related topics</p>
+  </div>
+  <div style="flex: 1; min-width: 200px; margin: 10px; text-align: center;">
+    <img src="assets/images/announcements.png" alt="Announcements" style="width: 100px;">
+    <h3>Announcements</h3>
+    <p>Get the latest announcements from Hyperion Team</p>
+  </div>
+</div>
+
+<p style="text-align: center; margin-top: 20px;">June 11, 2024</p>
