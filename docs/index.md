@@ -1,43 +1,45 @@
-# Home
+# Welcome to HCMS POD Documentation
 
-This site covers the documentation of **HCMS POD**. Please feel free to use the **Search** function.
+Welcome to the **HCMS POD** documentation site. Use the **Search** function to quickly find the information you need.
 
-<div class="tiles">
-  <a href="getting-started" class="tile">
-    <h3>Getting Started</h3>
-    <img src="assets/images/intro.png" alt="CMS">
-    <p>Intro docs</p>
+<div class="tiles" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+
+  <a href="getting-started" class="tile" style="text-decoration: none; color: inherit; text-align: center; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 200px;">
+    <h3 style="margin-bottom: 10px;">Getting Started</h3>
+    <img src="assets/images/intro.png" alt="CMS" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="margin-top: 10px;">Intro docs</p>
   </a>
 
-  <a href="platform" class="tile">
-    <h3>Platform</h3>
-    <img src="assets/images/platform.png" alt="Platform">
-    <p>Best practices</p>
+  <a href="platform" class="tile" style="text-decoration: none; color: inherit; text-align: center; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 200px;">
+    <h3 style="margin-bottom: 10px;">Platform</h3>
+    <img src="assets/images/platform.png" alt="Platform" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="margin-top: 10px;">Best practices</p>
   </a>
 
-  <a href="platform/cost_optimization/" class="tile">
-    <h3>Cost Optimization</h3>
-    <img src="assets/images/cost-optimization.png" alt="Cost Optimization">
-    <p>Cost Optimization for general resources</p>
+  <a href="platform/cost_optimization/" class="tile" style="text-decoration: none; color: inherit; text-align: center; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 200px;">
+    <h3 style="margin-bottom: 10px;">Cost Optimization</h3>
+    <img src="assets/images/cost-optimization.png" alt="Cost Optimization" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="margin-top: 10px;">Cost Optimization for general resources</p>
   </a>
 
-  <a href="support" class="tile">
-    <h3>DevOps and Support</h3>
-    <img src="assets/images/support.png" alt="DevOps and Support">
-    <p>Get support from our teams</p>
+  <a href="support" class="tile" style="text-decoration: none; color: inherit; text-align: center; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 200px;">
+    <h3 style="margin-bottom: 10px;">DevOps and Support</h3>
+    <img src="assets/images/support.png" alt="DevOps and Support" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="margin-top: 10px;">Get support from our teams</p>
   </a>
 
-  <a href="security-compliance-topics" class="tile">
-    <h3>Security and Compliance</h3>
-    <img src="assets/images/security-compliance.png" alt="Security and Compliance">
-    <p>Security and compliance related topics</p>
+  <a href="security-compliance-topics" class="tile" style="text-decoration: none; color: inherit; text-align: center; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 200px;">
+    <h3 style="margin-bottom: 10px;">Security and Compliance</h3>
+    <img src="assets/images/security-compliance.png" alt="Security and Compliance" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="margin-top: 10px;">Security and compliance related topics</p>
   </a>
 
-  <a href="news-announcements" class="tile">
-    <h3>Announcements</h3>
-    <img src="assets/images/announcements.png" alt="Announcements">
-    <p>Get the latest announcements from Hyperion Team</p>
+  <a href="news-announcements" class="tile" style="text-decoration: none; color: inherit; text-align: center; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 200px;">
+    <h3 style="margin-bottom: 10px;">Announcements</h3>
+    <img src="assets/images/announcements.png" alt="Announcements" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="margin-top: 10px;">Get the latest announcements from Hyperion Team</p>
   </a>
+
 </div>
 
-<p style="text-align: center; margin-top: 20px;">June 11, 2024</p>
+<p style="text-align: center; margin-top: 40px; font-size: 0.9em; color: #6c757d;">January 28, 2025</p>
