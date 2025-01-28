@@ -1,0 +1,11 @@
+site_name: Hyperion GSP Platform Documentation
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Platform: platform.md
+  - Cost Optimization: cost-optimization.md
+  - DevOps and Support: devops-support.md
+  - Security and Compliance: security-compliance.md
+  - Announcements: announcements.md
